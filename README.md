@@ -30,10 +30,15 @@
 
    As rotas descritas nesse tópico serão somentes as presentes na versão atual do projeto.
    BOTÃO HOME - LogoSeals/Main/
+   
    FEEDBACK - Main/Comment/(link: Whatsapp/Email/Instragram)/
+   
    LOGIN - Main/User_Log/
+   
    CADASTRO - Main/User_Log/User_Reg/
+   
    SOBRE NÓS - Main/
+   
    PRODUTOS - Main/Produtos
       
    
