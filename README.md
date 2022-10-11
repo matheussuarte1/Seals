@@ -10,19 +10,22 @@
 
       As funcionalidades descritas neste tópico serão somentes as presentes na versão atual do projeto.
    
-[BOTÃO HOME - Logo Seal](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.1%20Bot%C3%A3o%20Home/img/Bot%C3%A3o%20Home)
+[BOTÃO HOME - Logo Seal](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.1%20Bot%C3%A3o%20Home/Bot%C3%A3o%20Home.md)
    
-FEEDBACK - Links para contato
+[FEEDBACK - Links para contato](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.2%20Feedback/img/FeedBack.md)
    
-LOGIN/CADASTRO
+[LOGIN](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.3%20Login/img/Login.md)
+
+[CADASTRO](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.4%20Cadastro/img/Cadastro.md)
    
-SOBRE NÓS
+[SOBRE NÓS](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.5%20Sobre%20n%C3%B3s/img/Sobre-n%C3%B3s.md)
    
-PRODUTOS
+[PRODUTOS](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.6%20Produtos/img/Produtos.md)
    
 <h3>:wrench: CONFIGURAÇÕES DO PROJETO</h3>
  
 Editores de código - Visual Studo Code
+
 Ambiente - Windows
    
 <h3>:mailbox_closed: ROTAS</h3>
