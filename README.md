@@ -1,43 +1,47 @@
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 <h2 align=center> Seals </h2>
  Site de ecommerce-Seals
 
-1. INTRODUÇÃO
+<h3>:page_facing_up: INTRODUÇÃO</h3>
 
-   [Sistema de ecommerce - Seals](https://github.com/Albericoeduardo/Seals/blob/main/Scr/1.1%20Introdu%C3%A7%C3%A3o/Sobre-Seals.md)
+[Sistema de ecommerce - Seals](https://github.com/Albericoeduardo/Seals/blob/main/Scr/1.1%20Introdu%C3%A7%C3%A3o/Sobre-Seals.md)
    
-2. FUNCIONALIDADES
+<h3>:hammer: FUNCIONALIDADES</h3>
 
-   As funcionalidades descritas neste tópico serão somentes as presentes na versão atual do projeto.
+      As funcionalidades descritas neste tópico serão somentes as presentes na versão atual do projeto.
    
-   BOTÃO HOME - Logo Seal
+BOTÃO HOME - Logo Seal
    
-   FEEDBACK - Links para contato
+FEEDBACK - Links para contato
    
-   LOGIN/CADASTRO
+LOGIN/CADASTRO
    
-   SOBRE NÓS
+SOBRE NÓS
    
-   PRODUTOS
+PRODUTOS
    
-3. CONFIGURAÇÕES DO PROJETO
+<h3>:wrench: CONFIGURAÇÕES DO PROJETO</h3>
  
-   Editores de código - Visual Studo Code
-   Ambiente - Windows
+Editores de código - Visual Studo Code
+Ambiente - Windows
    
-4. ROTAS
+<h3>:mailbox_closed: ROTAS</h3>
 
-   As rotas descritas nesse tópico serão somentes as presentes na versão atual do projeto.
-   BOTÃO HOME - LogoSeals/Main/
+      As rotas descritas nesse tópico serão somentes as presentes na versão atual do projeto.
+
+BOTÃO HOME - LogoSeals/Main/
    
-   FEEDBACK - Main/Comment/(link: Whatsapp/Email/Instragram)/
+FEEDBACK - Main/Comment/(link: Whatsapp/Email/Instragram)/
    
-   LOGIN - Main/User_Log/
+LOGIN - Main/User_Log/
    
-   CADASTRO - Main/User_Log/User_Reg/
+CADASTRO - Main/User_Log/User_Reg/
    
-   SOBRE NÓS - Main/
+SOBRE NÓS - Main/
+
+PRODUTOS - Main/Produtos
    
-   PRODUTOS - Main/Produtos
+<h3>📁 Banco de dados</h3>
       
    
    
