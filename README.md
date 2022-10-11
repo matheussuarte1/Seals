@@ -3,9 +3,7 @@
 
 1. INTRODUÇÃO
 
-   Projeto em desenvolvimento para disciplina Engenharia de Conhecimento do curso de Engenharia de Software. Seals é um site de ecommerce baseado em recomendação de      produtos para os cliente de acordo com a caregoria e estilo do produto.
-   
-   Seals facilitará a busca do usuário por produtos e tornará sua experiencia mais dinâmica ao recomendar para o usuário os produtos com base no seu gosto.
+   [Sistema de ecommerce - Seals](https://github.com/Albericoeduardo/Seals/blob/main/Scr/1.1%20Introdu%C3%A7%C3%A3o/Sobre-Seals.md)
    
 2. FUNCIONALIDADES
 
