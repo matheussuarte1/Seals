@@ -1,4 +1,4 @@
 ## Modelo Lógico
 
-Abaixo está o modelo lógico da tabela prodútos
+Abaixo está o modelo lógico da tabela produtos.
 
