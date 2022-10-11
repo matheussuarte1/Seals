@@ -10,7 +10,7 @@
 
       As funcionalidades descritas neste tópico serão somentes as presentes na versão atual do projeto.
    
-BOTÃO HOME - Logo Seal
+[BOTÃO HOME - Logo Seal](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.1%20Bot%C3%A3o%20Home/img/Bot%C3%A3o%20Home)
    
 FEEDBACK - Links para contato
    
