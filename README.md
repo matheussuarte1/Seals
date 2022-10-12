@@ -5,6 +5,12 @@
 <h3>:page_facing_up: INTRODUÇÃO</h3>
 
 [Sistema de ecommerce - Seals](https://github.com/Albericoeduardo/Seals/blob/main/Scr/1.1%20Introdu%C3%A7%C3%A3o/Sobre-Seals.md)
+
+<h3>:abacus: PROCESSOS DE GC</h3>
+
+      Os processos de GC descritos neste tópico serão somente os que estão presentes na versão atual do projeto.
+      
+[Processos de GC](https://github.com/Albericoeduardo/Seals/blob/main/Scr/Processos%20GC/Processos-GC.md)
    
 <h3>:hammer: FUNCIONALIDADES</h3>
 
@@ -24,7 +30,7 @@
    
 <h3>:wrench: CONFIGURAÇÕES DO PROJETO</h3>
  
-Editores de código - Visual Studo Code
+Editores de código - Visual Studo Code e MySQL
 
 Ambiente - Windows
    
@@ -45,6 +51,10 @@ SOBRE NÓS - Main/
 PRODUTOS - Main/Produtos
    
 <h3>📁 Banco de dados</h3>
-      
+
+A criação do banco de dados se fez necessária desde os pré-requisitos iniciais propostos para o projeto. O banco de dados é MySQL e irá ser populado por PHP.
+
+[Modelo Lógico](https://github.com/Albericoeduardo/Seals/blob/main/Scr/Banco%20de%20dados/Modelo_L%C3%B3gico.md)
+
    
    
