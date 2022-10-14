@@ -1,6 +1,6 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 <h2 align=center> Seals </h2>
- Site de ecommerce-Seals
+ Site de ecommerce - Seals
 
 <h3>:page_facing_up: INTRODUÇÃO</h3>
 
@@ -16,7 +16,7 @@
 
       As funcionalidades descritas neste tópico serão somentes as presentes na versão atual do projeto.
    
-[BOTÃO HOME - Logo Seal](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.1%20Bot%C3%A3o%20Home/Bot%C3%A3o%20Home.md)
+[BOTÃO HOME - Logo Seals](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.1%20Bot%C3%A3o%20Home/Bot%C3%A3o%20Home.md)
    
 [FEEDBACK - Links para contato](https://github.com/Albericoeduardo/Seals/blob/main/Scr/2.2%20Feedback/img/FeedBack.md)
    
@@ -36,17 +36,17 @@ Ambiente - Windows
    
 <h3>:mailbox_closed: ROTAS</h3>
 
-      As rotas descritas nesse tópico serão somentes as presentes na versão atual do projeto.
+      As rotas descritas neste tópico serão somentes as presentes na versão atual do projeto.
 
-BOTÃO HOME - LogoSeals/Main/
+BOTÃO HOME - Main/LogoSeals
    
-FEEDBACK - Main/Comment/(link: Whatsapp/Email/Instragram)/
+FEEDBACK - Main/Comment/(link: Whatsapp/Email/Instragram)
    
-LOGIN - Main/User_Log/
+LOGIN - Main/User_Log
    
-CADASTRO - Main/User_Log/User_Reg/
+CADASTRO - Main/User_Log/User_Reg
    
-SOBRE NÓS - Main/
+SOBRE NÓS - Main
 
 PRODUTOS - Main/Produtos
    
