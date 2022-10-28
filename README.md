@@ -57,5 +57,6 @@ A criação do banco de dados se fez necessária desde os pré-requisitos inicia
 [Modelo Lógico](https://github.com/Albericoeduardo/Seals/blob/main/Scr/Banco%20de%20dados/Modelo_L%C3%B3gico.md)
 
 <h3>Casos de uso</h3>
+[Casos de uso] (https://github.com/matheussuarte1/Seals/blob/9fe484b0e55f58e2cfeb605a827bd3c6a4e137d1/Scr/Casos%20de%20uso)
    
    
